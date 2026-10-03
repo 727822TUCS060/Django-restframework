@@ -773,7 +773,7 @@ Default URL:
 http://127.0.0.1:8000/
 ```
 
----
+To use Dajngo orm use the project file djangoorm and application orm and create a separate folder django orm and use this for project and application activate virtual environment and use the manage.py 
 
 # Django ORM
 
